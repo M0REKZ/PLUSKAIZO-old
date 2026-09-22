@@ -1,5 +1,7 @@
 PLUSKAIZO (c) Copyright Benjamín Gajardo All rights reserved
 
+This is the previous version of the game, it is going through a rewrite, check https://m0rekz.github.io/PLUSKAIZO/ for more information
+
 You are not allowed to use or read this code without my explicit permission
 
 Story of the PLUSKAIZO Game:
